@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiEmpleados", "ApiEmpleados.csproj", "{008F050D-4F32-4EB4-BD75-DCE6C2896A28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datos", "..\Datos\Datos.csproj", "{71DECF99-B808-4479-9E4C-40DA1E5C3686}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Negocio", "..\Negocio\Negocio.csproj", "{531A4072-2B18-455F-B3C1-28FE0A67184F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008F050D-4F32-4EB4-BD75-DCE6C2896A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008F050D-4F32-4EB4-BD75-DCE6C2896A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008F050D-4F32-4EB4-BD75-DCE6C2896A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008F050D-4F32-4EB4-BD75-DCE6C2896A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DECF99-B808-4479-9E4C-40DA1E5C3686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DECF99-B808-4479-9E4C-40DA1E5C3686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DECF99-B808-4479-9E4C-40DA1E5C3686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DECF99-B808-4479-9E4C-40DA1E5C3686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531A4072-2B18-455F-B3C1-28FE0A67184F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531A4072-2B18-455F-B3C1-28FE0A67184F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531A4072-2B18-455F-B3C1-28FE0A67184F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531A4072-2B18-455F-B3C1-28FE0A67184F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDE46D2-91B4-460A-A069-211A9AD1F2A0}
+	EndGlobalSection
+EndGlobal
